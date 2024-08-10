@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "vehicle_management_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
